@@ -71,12 +71,12 @@ main {
   color: #f65282;
 }
 
-#icon{
+.weather-app-icon{
   width: 88px;
   height: 88px;
   position: relative;
   top: -8px;
-  font-size: 40px;
+  font-size: 48px;
   margin-right: 10px;
 }
 
