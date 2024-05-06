@@ -87,6 +87,17 @@ main {
   font-size: 28px;
   margin-top: 6px;
 }
+.weather-forecast{
+   display:flex;
+   justify-content: space-around;
+}
+.weather-forecast-icon{
+   width: 50px;
+   height:55px;
+   display: block;
+   margin: 0 auto;
+}
+
 
 footer {
   border-top: 1px solid #f9f7fe;
