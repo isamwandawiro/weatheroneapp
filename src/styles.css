@@ -116,7 +116,9 @@ main {
     display: flex;
     justify-content: center;
 }
-
+.weather-forecast-temperature{
+    padding: 0 10px;
+}
 footer {
   border-top: 1px solid #f9f7fe;
   text-align: center;
